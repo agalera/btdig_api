@@ -1,0 +1,4 @@
+bottle
+lxml
+gunicorn
+requests
